@@ -1,6 +1,6 @@
 # Level Up: Python
 
-Welcome to **Level Up: Python**, a curated collection of 14 advanced Python programs designed to elevate your coding skills. This repository serves as a hands-on playground for sharpening your Python proficiency. Whether you are a seasoned developer or a coding enthusiast, these programs are tailored to challenge and expand your knowledge.
+Welcome to **Level Up: Python**, a curated collection of 15 advanced Python programs designed to elevate your coding skills. This repository serves as a hands-on playground for sharpening your Python proficiency. Whether you are a seasoned developer or a coding enthusiast, these programs are tailored to challenge and expand your knowledge.
 
 ## Table of Contents
 1. [Find Prime Factors](#1-find-prime-factors)
@@ -17,6 +17,7 @@ Welcome to **Level Up: Python**, a curated collection of 14 advanced Python prog
 12. [Merge CSV Files](#12-merge-csv-files)
 13. [Solve a Sudoku](#13-solve-a-sudoku)
 14. [Build a Zip Archive](#14-build-a-zip-archive)
+15. [Download Sequential Files](#15-Download-Sequential-Files)
 
 ## Getting Started
 1. Clone the repository to your local machine:
