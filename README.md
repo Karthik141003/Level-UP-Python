@@ -22,7 +22,7 @@ Welcome to **Level Up: Python**, a curated collection of 15 advanced Python prog
 ## Getting Started
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/level-up-python.git
+   git clone https://github.com/karthik141003/level-up-python.git
    ```
 
 2. Navigate to the project directory:
